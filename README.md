@@ -76,5 +76,5 @@ https://telegra.ph/file/06c9648dc2acb5f86fd62.png
 - [AdirajShing](https://github.com/adiwajshing/Baileys) - ✅ For a huge library
 
 I haven't finished yet, I'm going to manage to get him to contact me about that🤘🏻🌀
-+22543496961
+22543496961
 https://wa.me/message/JMFP4557LYIGH1
