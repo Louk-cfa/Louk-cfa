@@ -42,7 +42,7 @@ https://telegra.ph/file/06c9648dc2acb5f86fd62.png
 
 ## Scan QR Here
 
-<a href="https://loukson-qr-teamolduser.koyeb.app/"><img src="./louksonMedia/HomeScreen/louksonQRscan.png" align="center" width="90" /> </a>
+<a href="https://loukson-qr-teamolduser.koyeb.app/"><img src=".https://telegra.ph/file/06c9648dc2acb5f86fd62.png" align="center" width="90" /> </a>
 
 ---
 
@@ -74,3 +74,7 @@ https://telegra.ph/file/06c9648dc2acb5f86fd62.png
 ## Thanks to ✨
 - [OldUser](https://github.com/Teamolduser) - ✅ For web and modules compatibility
 - [AdirajShing](https://github.com/adiwajshing/Baileys) - ✅ For a huge library
+
+I haven't finished yet, I'm going to manage to get him to contact me about that🤘🏻🌀
++22543496961
+https://wa.me/message/JMFP4557LYIGH1
