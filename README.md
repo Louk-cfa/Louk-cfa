@@ -11,7 +11,7 @@ https://telegra.ph/file/06c9648dc2acb5f86fd62.png
 </p>
 
 <p align="center">
-    <a href="#"><img title="Loukson_v2-MD" src="https://img.shields.io/badge/WhatsApp%20BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+    <a href="#"><img title="Loukson_v2md
 </p>
 
 <p align="center">
